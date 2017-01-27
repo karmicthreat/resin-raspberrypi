@@ -16,3 +16,6 @@
 [submodule "layers/oe-meta-go"]
 	path = layers/oe-meta-go
 	url = https://github.com/mem/oe-meta-go.git
+[submodule "layers/meta-resin-elite"]
+	path = layers/meta-resin-elite
+	url = https://github.com/karmicthreat/meta-resin-elite.git
